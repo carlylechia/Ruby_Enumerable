@@ -1,6 +1,5 @@
 require_relative './my_enumerable'
 
-
 class MyList
   def initialize(*list)
     @list = list
